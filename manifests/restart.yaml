@@ -2,37 +2,17 @@ format: yamanifest
 version: 1.0
 ---
 work/INPUT/MOM.res.nc:
-  fullpath: /short/v45/aph502/mom6/archive/double_gyre/restart039/MOM.res.nc
+  fullpath: /short/v45/aph502/mom6/archive/double_gyre/restart040/MOM.res.nc
   hashes:
-    binhash: 01bfe1fb7ca69ae0780ecd19e7981b40
-    md5: 8362aac3d5e3834a89937b990004b68b
-work/INPUT/MOM.res_Y0001_D361_S00000.nc:
-  fullpath: /short/v45/aph502/mom6/archive/double_gyre/restart035/MOM.res_Y0001_D361_S00000.nc
+    binhash: 211a4113eba19b7e0ff58515c06d8759
+    md5: 13da3533bf261617cdee62beddcb57b9
+work/INPUT/MOM.res_Y0002_D046_S00000.nc:
+  fullpath: /short/v45/aph502/mom6/archive/double_gyre/restart040/MOM.res_Y0002_D046_S00000.nc
   hashes:
-    binhash: e804652f7caee0b734442f28b5dd33dc
-    md5: 5fd04b51fbf6a99595688d761497920f
-work/INPUT/MOM.res_Y0002_D006_S00000.nc:
-  fullpath: /short/v45/aph502/mom6/archive/double_gyre/restart036/MOM.res_Y0002_D006_S00000.nc
-  hashes:
-    binhash: b60c362b0d094fd76d835e5f3aeb38e3
-    md5: 455c5486b6f2eb199b9024deca9bbec1
-work/INPUT/MOM.res_Y0002_D016_S00000.nc:
-  fullpath: /short/v45/aph502/mom6/archive/double_gyre/restart037/MOM.res_Y0002_D016_S00000.nc
-  hashes:
-    binhash: 7a8b40884a0b49c54f8580fe3a3e8e2d
-    md5: f72a82b16b9242f5dffd47ccd4c997bd
-work/INPUT/MOM.res_Y0002_D026_S00000.nc:
-  fullpath: /short/v45/aph502/mom6/archive/double_gyre/restart038/MOM.res_Y0002_D026_S00000.nc
-  hashes:
-    binhash: c5986dd7d36f0491a3406bde737ecf93
-    md5: ed04da11e95357c63a6d021b7ab1fcb0
-work/INPUT/MOM.res_Y0002_D036_S00000.nc:
-  fullpath: /short/v45/aph502/mom6/archive/double_gyre/restart039/MOM.res_Y0002_D036_S00000.nc
-  hashes:
-    binhash: d3c493efa2d9d82bf9973c7a0bea3671
-    md5: f094e0adef1db3adc67e4c811488192b
+    binhash: cc1d608bbbb776a565211873c0116938
+    md5: 844fb81dffe74b1be8e3dba97f9eba16
 work/INPUT/ocean_solo.res:
-  fullpath: /short/v45/aph502/mom6/archive/double_gyre/restart039/ocean_solo.res
+  fullpath: /short/v45/aph502/mom6/archive/double_gyre/restart040/ocean_solo.res
   hashes:
-    binhash: 5ae6624b03196226a208d43d8691edb4
-    md5: ad1e69f1ff00a021b6a59fcb5a20a638
+    binhash: ac1e1682e2f162e95234a3b4c564aeeb
+    md5: 68f1a8594a5cb9758c5b777b11d60905
