@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/MOM6:
+  fullpath: /short/v45/aph502/mom6/bin/MOM6
+  hashes:
+    binhash: d9f95f21694790ac7474a073f1e9d73b
+    md5: d03c5e6146417519148fd97a5b607c86
