@@ -5,7 +5,7 @@
  ncpus: 1
  mem: 4GB
  jobname: double_gyre
- runspersub: 15
+ runspersub: 1
 
  collate: false
  walltime: 0:30:00
