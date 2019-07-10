@@ -1,0 +1,28 @@
+# PBS flags
+ queue: express
+ project: x52
+ walltime: 0:30:00
+ ncpus: 2
+ mem: 4GB
+ jobname: double_gyre
+ runspersub: 15
+
+ collate: false
+ collate_walltime: 0:30:00
+ collate_mem: 30GB
+# Model config
+ model: mom6
+# model: gold
+ shortpath: /short/ds2
+ exe: mom6
+ input: double_gyre
+ #priority: 15
+ #stacksize: unlimited 
+
+#runlog: true
+
+# Postprocessing
+ collate: False
+ userscripts:
+     archive: sync_output_to_gdata.sh
+ 
