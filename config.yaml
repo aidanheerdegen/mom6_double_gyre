@@ -14,8 +14,8 @@
  model: mom6
 # model: gold
  shortpath: /short/ds2
- exe: mom6
- input: double_gyre
+ exe: /short/ds2/txs156/mom6/bin/mom6
+ input: /short/ds2/txs156/mom6/input/double_gyre
  #priority: 15
  #stacksize: unlimited 
 

@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/mom6:
+  fullpath: /short/ds2/txs156/mom6/bin/mom6
+  hashes:
+    binhash: 540041fd458b3730684fcb6e0d02f918
+    md5: 9f37a48d316a6fb881f73561c94e8371
