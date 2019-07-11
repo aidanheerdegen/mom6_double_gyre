@@ -39,7 +39,7 @@ NJHALO = 4                      ! default = 2
 !NJPROC = 4                     !
                                 ! The number of processors in the y-direction. With
                                 ! STATIC_MEMORY_ this is set in MOM_memory.h at compile time.
-!LAYOUT = 2, 4                  !
+LAYOUT = 1, 2                   !
                                 ! The processor layout that was actually used.
 IO_LAYOUT = 1, 1                ! default = 0
                                 ! The processor layout to be used, or 0,0 to automatically
@@ -378,7 +378,7 @@ RESTART_CONTROL = 3             ! default = 1
                                 ! (bit 0) for a non-time-stamped file. A non-time-stamped
                                 ! restart file is saved at the end of the run segment
                                 ! for any non-negative value.
-RESTINT = 110.0                 !   [days] default = 0.0
+RESTINT = 10.0                  !   [days] default = 0.0
                                 ! The interval between saves of the restart file in units
                                 ! of TIMEUNIT.  Use 0 (the default) to not save
                                 ! incremental restart files at all.
