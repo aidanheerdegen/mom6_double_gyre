@@ -7,6 +7,8 @@ mem: 4GB
 jobname: double_gyre
 runspersub: 15
 
+qsub_flags: -l storage=gdata/hh5+gdata/v45+scratch/v45
+
 collate: false
 collate_walltime: 0:30:00
 collate_mem: 30GB
