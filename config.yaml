@@ -13,8 +13,8 @@ collate_mem: 30GB
 # Model config
 model: mom6
 # model: gold
-shortpath: /short/v45
-exe: MOM6
+shortpath: /scratch/v45
+exe: MOM6-25Jan2020
 input: double_gyre
 priority: 15
 stacksize: unlimited 
