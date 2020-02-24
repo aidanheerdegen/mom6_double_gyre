@@ -5,7 +5,7 @@ walltime: 0:30:00
 ncpus: 2
 mem: 4GB
 jobname: double_gyre
-runspersub: 15
+runspersub: 10
 
 qsub_flags: -l storage=gdata/hh5+gdata/v45+scratch/v45
 
