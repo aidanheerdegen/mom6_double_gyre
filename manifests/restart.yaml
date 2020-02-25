@@ -2,17 +2,17 @@ format: yamanifest
 version: 1.0
 ---
 work/INPUT/MOM.res.nc:
-  fullpath: /scratch/v45/aph502/mom6/archive/double_gyre/restart059/MOM.res.nc
+  fullpath: /scratch/v45/aph502/mom6/archive/double_gyre/restart060/MOM.res.nc
   hashes:
-    binhash: 8cf206e9f50e6f2e8a30019f1c365e53
-    md5: 08dbcdc7a8fa557e451a383d2faa9e76
-work/INPUT/MOM.res_Y0002_D236_S00000.nc:
-  fullpath: /scratch/v45/aph502/mom6/archive/double_gyre/restart059/MOM.res_Y0002_D236_S00000.nc
+    binhash: 89787516c86d08f397ef4e6f05dfb6e2
+    md5: 87efb380f035a5beb768b6defcbcc369
+work/INPUT/MOM.res_Y0002_D246_S00000.nc:
+  fullpath: /scratch/v45/aph502/mom6/archive/double_gyre/restart060/MOM.res_Y0002_D246_S00000.nc
   hashes:
-    binhash: 297fda361814ffe1e3e81533cf781172
-    md5: b7066e18cdd7e6415312e7d16367d331
+    binhash: 35ba9a322400a56f1026873952b8f31c
+    md5: d17409abc41644477a019a0cb18a2dfc
 work/INPUT/ocean_solo.res:
-  fullpath: /scratch/v45/aph502/mom6/archive/double_gyre/restart059/ocean_solo.res
+  fullpath: /scratch/v45/aph502/mom6/archive/double_gyre/restart060/ocean_solo.res
   hashes:
-    binhash: bae457dd6b59147964fce74d8c910152
-    md5: e8283a4e37c4a37f84350a1690949fcb
+    binhash: 3c9a521041816d1343ee5c7ef4e634eb
+    md5: ed1c0cc286b922636433cc9eda60fb1a
