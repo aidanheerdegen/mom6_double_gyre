@@ -7,19 +7,18 @@ mem: 128GB
 jobname: double_gyre
 runspersub: 10
 
-qsub_flags: -l storage=gdata/hh5+gdata/v45+scratch/v45
-
 collate: false
 collate_walltime: 0:30:00
 collate_mem: 30GB
 # Model config
 model: mom6
-# model: gold
 shortpath: /scratch/v45
 exe: MOM6-25Jan2020
 input: double_gyre
-priority: 15
 stacksize: unlimited 
 
 runlog: true
+
+userscripts:
+    setup: runmpi4py.sh
 
