@@ -4,5 +4,5 @@ version: 1.0
 work/MOM6-25Jan2020:
   fullpath: /scratch/v45/aph502/mom6/bin/MOM6-25Jan2020
   hashes:
-    binhash: d92038d7110ff9540642b9eb0b243a6f
+    binhash: 44a351572e0ab7a9133f2762237b9254
     md5: c605b76e73511e9be7db1546736a3d1c
