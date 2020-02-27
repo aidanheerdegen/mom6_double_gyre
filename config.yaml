@@ -2,8 +2,8 @@
 queue: express
 project: x77
 walltime: 0:30:00
-ncpus: 2
-mem: 4GB
+ncpus: 64
+mem: 128GB
 jobname: double_gyre
 runspersub: 10
 
