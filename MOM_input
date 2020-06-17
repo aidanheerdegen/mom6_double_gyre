@@ -49,7 +49,7 @@ NJGLOBAL = 40                   !
 ! NJPROC = 8                      !
                                 ! The number of processors in the x-direction. With
                                 ! STATIC_MEMORY_ this is set in MOM_memory.h at compile time.
-LAYOUT = 8, 8                   !
+LAYOUT = 2, 2                   !
                                 ! The processor layout that was acutally used.
 IO_LAYOUT = 1, 1                ! default = 0
                                 ! The processor layout to be used, or 0,0 to automatically
