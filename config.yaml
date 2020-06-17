@@ -19,6 +19,14 @@ stacksize: unlimited
 
 runlog: true
 
-userscripts:
-    setup: runmpi4py.sh
+# userscripts:
+#     setup: runmpi4py.sh
 
+manifest:
+    fasthash: 
+            - binhash
+    fullhash: 
+            - sha256
+        # ignore: '*.nc'
+    reproduce:
+            input: True
