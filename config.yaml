@@ -22,3 +22,5 @@ stacksize: unlimited
 
 runlog: true
 
+mpi:
+  runcmd: srun
