@@ -1,3 +1,18 @@
 format: yamanifest
 version: 1.0
---- {}
+---
+work/INPUT/MOM.res.nc:
+  fullpath: /group/pawsey0410/aidanh/mom6/archive/mom6_double_gyre/restart000/MOM.res.nc
+  hashes:
+    binhash: 7bd3aad22d58aee5560c451334df0619
+    md5: 44aa6f9d19e59419571fd9d935f8d5d7
+work/INPUT/MOM.res_Y0001_D011_S00000.nc:
+  fullpath: /group/pawsey0410/aidanh/mom6/archive/mom6_double_gyre/restart000/MOM.res_Y0001_D011_S00000.nc
+  hashes:
+    binhash: b586ffa4584a66dda68558d8d2f1cfbc
+    md5: ae12044dd64d626bb829d0a8cbacfee7
+work/INPUT/ocean_solo.res:
+  fullpath: /group/pawsey0410/aidanh/mom6/archive/mom6_double_gyre/restart000/ocean_solo.res
+  hashes:
+    binhash: efc1f9b5b46d955489b2257f4613d503
+    md5: aab9477c93c194235777d391ab7b948d
