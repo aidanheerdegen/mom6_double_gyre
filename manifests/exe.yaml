@@ -2,7 +2,7 @@ format: yamanifest
 version: 1.0
 ---
 work/MOM6:
-  fullpath: /short/v45/aph502/mom6/bin/MOM6
+  fullpath: /group/pawsey0410/aidanh/mom6-ninja-nci/ocean_only_symmetric/MOM6
   hashes:
-    binhash: d9f95f21694790ac7474a073f1e9d73b
-    md5: d03c5e6146417519148fd97a5b607c86
+    binhash: c3f1a4cc186077b6f6427b447c30362e
+    md5: 4f2e423271f2ad4ae765a4252a0deffb

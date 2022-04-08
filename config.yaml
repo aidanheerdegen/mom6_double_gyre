@@ -1,20 +1,21 @@
 # PBS flags
-queue: express
-project: x77
+# queue: express
+# project: x77
+scheduler: slurm
 walltime: 0:30:00
-ncpus: 2
-mem: 4GB
+ncpus: 8
+# mem: 4GB
 jobname: double_gyre
 runspersub: 15
 
 collate: false
-collate_walltime: 0:30:00
-collate_mem: 30GB
+
 # Model config
 model: mom6
+
 # model: gold
-shortpath: /short/v45
-exe: MOM6
+shortpath: /group/pawsey0410
+exe: /group/pawsey0410/aidanh/mom6-ninja-nci/ocean_only_symmetric/MOM6
 input: double_gyre
 priority: 15
 stacksize: unlimited 
