@@ -1,8 +1,8 @@
 format: yamanifest
 version: 1.0
 ---
-work/MOM6-25Jan2020:
-  fullpath: /scratch/v45/aph502/mom6/bin/MOM6-25Jan2020
+work/MOM6:
+  fullpath: /g/data/tm70/aph502/mom6-ninja-nci/ocean_only_symmetric/MOM6
   hashes:
-    binhash: 44a351572e0ab7a9133f2762237b9254
-    sha256: 3288ca74d7eac438cc2b489ba75949ebc09709f6e7dc40498d21416b62ff8200
+    binhash: 529d8a94bd3c2eac0f54264e2e133d91
+    sha256: 5ba68544e5b10f2b9e826fa926db0c81b33b779e13ac44ed71bbfcaa645f9e7e

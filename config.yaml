@@ -1,6 +1,6 @@
 # PBS flags
 queue: express
-project: x77
+project: tm70
 walltime: 0:30:00
 ncpus: 4
 mem: 8GB
@@ -12,9 +12,9 @@ collate_walltime: 0:30:00
 collate_mem: 30GB
 # Model config
 model: mom6
-shortpath: /scratch/v45
-exe: MOM6-25Jan2020
-input: double_gyre
+shortpath: /scratch/tm70
+exe: /g/data/tm70/aph502/mom6-ninja-nci/ocean_only_symmetric/MOM6
+input: /g/data/tm70/payu/mom6/double_gyre_orig/input
 stacksize: unlimited 
 
 runlog: true
@@ -28,5 +28,5 @@ manifest:
     fullhash: 
             - sha256
         # ignore: '*.nc'
-    reproduce:
-            input: True
+    # reproduce:
+        #     input: True
